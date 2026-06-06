@@ -3,7 +3,7 @@ name: Publicar imagen docker en aws
 on:
   push:
     branches:
-      - main
+      - aws
 
 jobs:
   build-and-push-aws:
