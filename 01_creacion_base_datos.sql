@@ -8,7 +8,7 @@
 
 -- Eliminar base de datos si existe (para desarrollo)
 -- ADVERTENCIA: Esto eliminará todos los datos existentes
-
+-- 
 -- DROP DATABASE IF EXISTS proyecto_db;
 -- Crear base de datos principal
 CREATE DATABASE IF NOT EXISTS proyecto_db 
