@@ -4,6 +4,7 @@
 -- Motor: MySQL 8.0+
 -- Autor: Sistema de Desarrollo
 -- Fecha: 2024
+
 -- =====================================================
 
 -- Eliminar base de datos si existe (para desarrollo)
